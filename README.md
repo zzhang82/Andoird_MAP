@@ -1,4 +1,5 @@
 # Andoird_MAP
 class_projects_practices for Andoird
 
-![image](BillCalculatorZZS.png=400*200)
+project1: BillCalculator: Feb17 2018
+![image](BillCalculatorZZS.png)
